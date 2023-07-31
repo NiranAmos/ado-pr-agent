@@ -1,0 +1,22 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore the virtual environment directory (if you use virtualenv)
+venv/
+env/
+
+# Ignore any local development configuration files
+*.env
+
+# Ignore system-specific files and folders
+*.DS_Store
+Thumbs.db
+
+# Ignore editor/IDE specific files and folders
+.vscode/
+.idea/
+*.pydevproject
+
+# Ignore pipenv lock file
+Pipfile.lock
