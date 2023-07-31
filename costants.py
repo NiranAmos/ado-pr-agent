@@ -1,0 +1,7 @@
+
+class ProjectInfo():
+    AZURE_DEVOPS_URI = ""
+    AZURE_DEVOPS_PROJECT_NAME = ""
+    AZURE_DEVOPS_REPOSITORY_NAME = ""
+    AZURE_OPEN_AI_ENDPOINT = ""
+    PULL_REQUEST_ID = 1
